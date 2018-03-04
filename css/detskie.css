@@ -159,3 +159,19 @@
 .interiorItems__link:hover {
   text-decoration: none;
 }
+
+.store {
+  min-height: 600px;
+  background: grey;
+}
+.store-nav > a {
+  font-family: "Roboto Slab", serif;
+  font-size: 25px;
+  font-weight: bold;
+  border-left: 20px solid #ffc000;
+  padding-left: 5px;
+  color: #3b3b3b;
+}
+.store-nav-arrow > a {
+  color: #3b3b3b;
+}
