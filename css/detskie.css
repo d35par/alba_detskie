@@ -1,5 +1,5 @@
 .bloackHead {
-  font-family: "Roboto Slab", serif;
+  font-family: RobotoSlab;
   font-size: 25px;
   font-weight: bold;
   text-align: center;
@@ -25,9 +25,8 @@
   margin-top: 15px;
   min-height: 260px;
   display: flex;
-  font-family: "Open Sans", sans-serif;
+  font-family: OpenSans;
   font-size: 16px;
-  font-weight: bolder;
 }
 .atn__text:hover {
   -webkit-box-shadow: 5px 10px 21px 0px rgba(179, 179, 179, 1);
@@ -79,7 +78,7 @@
 .bestForChildText > p {
   margin: 0;
   display: flex;
-  font-family: "Roboto Slab", serif;
+  font-family: RobotoSlab;
   font-size: 25px;
   font-weight: bold;
   text-transform: uppercase;
@@ -139,17 +138,17 @@
   min-height: 375px;
 }
 .interiorItems__text {
-  font-family: "Roboto Slab", serif;
+  font-family: RobotoSlab;
   font-size: 24px;
   font-weight: bold;
 }
 .interiorItems__stock {
-  font-family: "Open Sans", sans-serif;
+  font-family: OpenSans;
   font-size: 16px;
   margin: 1em 0 3em;
 }
 .interiorItems__link {
-  font-family: "Roboto Slab", serif;
+  font-family: RobotoSlab;
   font-size: 18px;
   font-weight: bold;
   border: 2px solid #ffc000;
@@ -165,7 +164,7 @@
   background: grey;
 }
 .store-nav > a {
-  font-family: "Roboto Slab", serif;
+  font-family: RobotoSlab;
   font-size: 25px;
   font-weight: bold;
   border-left: 20px solid #ffc000;
